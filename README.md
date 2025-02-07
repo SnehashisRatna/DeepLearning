@@ -23,10 +23,9 @@ To run the code, ensure you have Python 3 installed along with the following lib
 ## Code Link 
 You can view the complete code on GitHub:
 [Assignment 4 Code](https://github.com/SnehashisRatna/DeepLearning/blob/main/LogicGateOperation.ipynb)
-
-Install the required libraries using pip:  
-```bash
-
+## Submission Date
+51. 
+52. *7th-Feb-2025*
 
 1. # Assignment 4: Perceptron Classifier on the Iris Dataset
 2. 
