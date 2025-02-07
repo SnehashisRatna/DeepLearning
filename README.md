@@ -1,5 +1,33 @@
 # DeepLearning
 
+# Assignment 3: Perceptron Implementation for Logic Gates  
+
+## Overview  
+
+This assignment implements a Perceptron model to classify the outputs of basic logic gates (AND, OR, NOT). The implementation includes:  
+- A custom Perceptron model built from scratch using NumPy.  
+- Scikit-learn’s built-in Perceptron for comparison.  
+- Visualization of decision boundaries for AND, OR, and NOT gates using Matplotlib.  
+
+## Repository Structure  
+
+- `LogicGateOperation.py` &nbsp;&nbsp;&nbsp;&nbsp;: Main Python script containing Perceptron implementations and plotting functions.  
+- `README.md` &nbsp;&nbsp;&nbsp;&nbsp;: This file.  
+
+## Requirements  
+
+To run the code, ensure you have Python 3 installed along with the following libraries:  
+- [NumPy](https://numpy.org/)  
+- [Matplotlib](https://matplotlib.org/)  
+- [Scikit-learn](https://scikit-learn.org/)  
+## Code Link 
+You can view the complete code on GitHub:
+[Assignment 4 Code](https://github.com/SnehashisRatna/DeepLearning/blob/main/LogicGateOperation.ipynb)
+
+Install the required libraries using pip:  
+```bash
+
+
 1. # Assignment 4: Perceptron Classifier on the Iris Dataset
 2. 
 3. ## Overview
