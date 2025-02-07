@@ -1,4 +1,10 @@
 # DeepLearning
+## Submitted By  
+- **Name:** [Snehashisa Subudhiratna]  
+- **Roll Number:** [A124013]  
+- **Course:** M.Tech in Computer Science Engineering  
+- **Institute:** IIIT Bhubaneswar  
+- **Subject:** [Deep Learning]    
 
 # Assignment 3: Perceptron Implementation for Logic Gates  
 
