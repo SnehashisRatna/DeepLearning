@@ -22,7 +22,7 @@ To run the code, ensure you have Python 3 installed along with the following lib
 - [Scikit-learn](https://scikit-learn.org/)  
 ## Code Link 
 You can view the complete code on GitHub:
-[Assignment 4 Code](https://github.com/SnehashisRatna/DeepLearning/blob/main/LogicGateOperation.ipynb)
+[Assignment 3 Code] (https://github.com/SnehashisRatna/DeepLearning/blob/main/LogicGateOperation.ipynb)
 ## Submission Date
 51. 
 52. *7th-Feb-2025*
