@@ -12,7 +12,7 @@
 10. 
 11. ## Repository Structure
 12. 
-13. - `assignment4.py` &nbsp;&nbsp;&nbsp;&nbsp;: Main Python script containing the Perceptron implementations and plotting functions.
+13. - `irisDataSet.py` &nbsp;&nbsp;&nbsp;&nbsp;: Main Python script containing the Perceptron implementations and plotting functions.
 14. - `README.md` &nbsp;&nbsp;&nbsp;&nbsp;: This file.
 15. 
 16. ## Requirements
@@ -22,19 +22,7 @@
 20. - [Matplotlib](https://matplotlib.org/)
 21. - [Scikit-learn](https://scikit-learn.org/)
 22. 
-23. You can install the required libraries using pip:
-24. 
-25. ```bash
-26. pip install numpy matplotlib scikit-learn
-27. ```
-28. 
-29. ## How to Run
-30. 
-31. Run the script using the following command in your terminal:
-32. 
-33. ```bash
-34. python assignment4.py
-35. ```
+23. 
 36. 
 37. Upon execution, two decision boundary plots will be generated:
 38. - One for the custom Perceptron implementation.
@@ -45,10 +33,6 @@
 43. You can view the complete code on GitHub:
 44. [Assignment 4 Code]()
 45. 
-46. ## Author
-47. 
-48. *Your Name*
-49. 
 50. ## Submission Date
 51. 
-52. *Insert Date Here*
+52. *7th-Feb-2025*
