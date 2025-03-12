@@ -95,3 +95,31 @@ The key objectives of this notebook are:
 - Changing activation functions affects the shape of the output.  
 - Modifying parameters impacts **likelihood and loss values**.  
 - The softmax function should produce **probability distributions** over class labels.
+
+# **Shallow Neural Networks II**  
+
+## **Overview**  
+This notebook is designed to help you gain familiarity with **shallow neural networks** using **2D inputs**. It follows an example similar to **Figure 3.8** and allows experimentation with different **activation functions**.  
+
+The key objectives of this notebook are:  
+- Understanding the structure of a shallow neural network with **2D inputs**.  
+- Implementing different **activation functions**.  
+- Modifying and tuning parameters to observe their effects.  
+- Computing **loss functions**, including least squares error and negative log likelihood.  
+
+## **Tasks in the Notebook**  
+- **Implementing Activation Functions:** Experiment with different activation functions like ReLU, Sigmoid, and Tanh.  
+- **Defining Network Parameters:** Initialize weights and biases for a shallow neural network.  
+- **Forward Propagation:** Compute the output using matrix multiplications and activation functions.  
+- **Probability Distribution:** Implement the **Gaussian distribution** function and analyze its behavior.  
+- **Loss Computation:** Compute and visualize **sum of squares loss, likelihood, and negative log-likelihood**.  
+- **Multiclass Classification:** Implement softmax and analyze the model’s behavior in classification tasks.  
+
+## **Expected Outputs & Observations**  
+- The model should fit **2D data points** and make reasonable predictions.  
+- Changing activation functions affects the shape of the output.  
+- Modifying parameters impacts **likelihood and loss values**.  
+- The softmax function should produce **probability distributions** over class labels.  
+
+
+
