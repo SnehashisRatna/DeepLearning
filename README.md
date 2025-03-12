@@ -121,5 +121,35 @@ The key objectives of this notebook are:
 - Modifying parameters impacts **likelihood and loss values**.  
 - The softmax function should produce **probability distributions** over class labels.  
 
+# **Shallow Neural Networks III & IV**  
+
+## **Overview**  
+This repository contains notebooks designed to help you gain familiarity with **shallow neural networks**, covering both **2D inputs** and the **maximum possible number of linear regions**. It also explores different **activation functions** and their effects on network performance.  
+
+The key objectives of these notebooks are:  
+- Understanding the structure of a shallow neural network with **2D inputs**.  
+- Implementing different **activation functions**.  
+- Modifying and tuning parameters to observe their effects.  
+- Computing **loss functions**, including least squares error and negative log likelihood.  
+- Analyzing the **maximum possible number of linear regions** a shallow network can form.  
+
+## **Notebook 3.3: Shallow Network Regions**  
+- **Computing Linear Regions:** Compute the **maximum possible number of linear regions** in a shallow network, as seen in Figure 3.9 of the book.  
+- **Parameter Effects:** Modify parameters and analyze their impact on network regions.  
+- **Mathematical Analysis:** Understand the mathematical reasoning behind network region calculations.  
+
+## **Notebook 3.4: Activation Functions**  
+- **Exploring Activation Functions:** Implement and compare different activation functions.  
+- **Effect on Model Output:** Observe how each activation function affects model predictions.  
+- **Gradient Behavior:** Analyze gradients of activation functions and their impact on training.  
+
+## **Expected Outputs & Observations**  
+- The model should fit **2D data points** and make reasonable predictions.  
+- Changing activation functions affects the shape of the output.  
+- Modifying parameters impacts **likelihood and loss values**.  
+- The softmax function should produce **probability distributions** over class labels.  
+- The number of linear regions should follow a predictable pattern based on theoretical calculations.  
+
+
 
 
