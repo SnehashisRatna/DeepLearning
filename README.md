@@ -205,11 +205,55 @@ This repository contains notebooks that explore deeper neural network architectu
 - Different activation functions impact learning speed and convergence.  
 
 ## **Code & Resources**  
-📂 **Repository Link:** [[GitHub]](https://github.com/SnehashisRatna/DeepLearning/tree/main/Notebooks/Chap04)(#)
+📂 **Repository Link:** [[GitHub]](https://github.com/SnehashisRatna/DeepLearning/tree/main/Notebooks/Chap04)
 📜 **Reference Material:** UDL Book - Chapter 4  
 ✉️ **Contact:** udlbookmail@gmail.com  
 
 
+# **Deep Neural Networks & Loss Functions**
+
+## **Overview**  
+This repository contains notebooks designed to explore **deep neural networks** and different **loss functions**, including **Least Squares Loss**, **Binary Cross-Entropy Loss**, and **Multiclass Cross-Entropy Loss**. These practicals follow the theoretical concepts from **Chapter 5** of the book.
+
+### **Key Objectives:**  
+- Understanding the **Least Squares Loss** and its connection to **Maximum Likelihood Estimation**.  
+- Implementing **Binary Cross-Entropy Loss** for classification problems with binary labels.  
+- Implementing **Multiclass Cross-Entropy Loss** for multi-class classification.  
+- Computing **log-likelihood functions** and their gradients for optimization.  
+
+
+## **Notebook 5.1: Least Squares Loss**  
+- **Mathematical Derivation:** Understand the equivalence of **Maximum Likelihood** and **Negative Log-Likelihood Minimization**.  
+- **Implementation:** Write Python functions to compute the **Least Squares Loss**.  
+- **Gradient Descent:** Compute gradients and visualize the loss surface.  
+
+## **Notebook 5.2: Binary Cross-Entropy Loss**  
+- **Bernoulli Distribution:** Formulate the loss function based on binary classification.  
+- **Implementation:** Compute binary cross-entropy loss and its gradient.  
+- **Effect of Predictions:** Analyze how changing the model's output affects the loss.  
+
+## **Notebook 5.3: Multiclass Cross-Entropy Loss**  
+- **Categorical Distribution:** Understand how multi-class classification extends binary cross-entropy.  
+- **Softmax Function:** Implement the softmax function for multi-class predictions.  
+- **Negative Log-Likelihood:** Compute and visualize how the loss changes with predictions.  
+
+## **Expected Outputs & Observations**  
+- The loss functions should behave as expected when modifying inputs.  
+- Cross-entropy loss should decrease when predictions match true labels.  
+- The **Least Squares Loss** should exhibit a quadratic curve over error values.  
+
+## **Contributing**  
+If you find any errors or have suggestions for improvements, feel free to contribute by submitting a **pull request** or reporting an **issue**.  
+
+## **License**  
+This project is open-source and available under the **MIT License**.  
+
+## **Code & Resources**  
+📂 **Repository Link:** [GitHub Repo]([#](https://github.com/SnehashisRatna/DeepLearning/tree/main/Notebooks/Chap05))  
+📄 **Notebook Files:**  
+- 📘 [Notebook 5.1: Least Squares Loss](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap05/5_1_Least_Squares_Loss.ipynb)  
+- 📘 [Notebook 5.2: Binary Cross-Entropy Loss]([#](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap05/5_2_Binary_Cross_Entropy_Loss.ipynb))  
+- 📘 [Notebook 5.3: Multiclass Cross-Entropy Loss]([#](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap05/5_3_Multiclass_Cross_entropy_Loss.ipynb))  
 
 
 
