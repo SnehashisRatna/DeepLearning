@@ -128,7 +128,7 @@ The key objectives of this notebook are:
 ## Code Link 
 
 You can view the complete code on GitHub:
-[SNN 2 Code](#[https://github.com/SnehashisRatna/DeepLearning/blob/main/LogicGateOperation.ipynb](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_2_Shallow_Networks_II.ipynb))
+[SNN 2 Code](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_2_Shallow_Networks_II.ipynb)
 
 # **Shallow Neural Networks III & IV**  
 
@@ -150,7 +150,7 @@ The key objectives of these notebooks are:
 ## Code Link 
 
 You can view the complete code on GitHub:
-[SNN 3 Code]([https://github.com/SnehashisRatna/DeepLearning/blob/main/LogicGateOperation.ipynb](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_3_Shallow_Network_Regions.ipynb))
+[SNN 3 Code](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_3_Shallow_Network_Regions.ipynb)
 
 ## **Notebook 3.4: Activation Functions**  
 - **Exploring Activation Functions:** Implement and compare different activation functions.  
@@ -160,7 +160,7 @@ You can view the complete code on GitHub:
 ## Code Link 
 
 You can view the complete code on GitHub:
-[SNN 4 Code]([https://github.com/SnehashisRatna/DeepLearning/blob/main/LogicGateOperation.ipynb](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_4_Activation_Functions.ipynb))
+[SNN 4 Code](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_4_Activation_Functions.ipynb)
 
 ## **Expected Outputs & Observations**  
 - The model should fit **2D data points** and make reasonable predictions.  
@@ -249,11 +249,11 @@ If you find any errors or have suggestions for improvements, feel free to contri
 This project is open-source and available under the **MIT License**.  
 
 ## **Code & Resources**  
-📂 **Repository Link:** [Chapter-5]((https://github.com/SnehashisRatna/DeepLearning/tree/main/Notebooks/Chap05))  
+📂 **Repository Link:** [Chapter-5](https://github.com/SnehashisRatna/DeepLearning/tree/main/Notebooks/Chap05)
 📄 **Notebook Files:**  
 - 📘 [Notebook 5.1: Least Squares Loss](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap05/5_1_Least_Squares_Loss.ipynb)  
-- 📘 [Notebook 5.2: Binary Cross-Entropy Loss]((https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap05/5_2_Binary_Cross_Entropy_Loss.ipynb))  
-- 📘 [Notebook 5.3: Multiclass Cross-Entropy Loss]((https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap05/5_3_Multiclass_Cross_entropy_Loss.ipynb))  
+- 📘 [Notebook 5.2: Binary Cross-Entropy Loss](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap05/5_2_Binary_Cross_Entropy_Loss.ipynb)
+- 📘 [Notebook 5.3: Multiclass Cross-Entropy Loss](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap05/5_3_Multiclass_Cross_entropy_Loss.ipynb)
 
 
 
