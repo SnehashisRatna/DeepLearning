@@ -96,6 +96,11 @@ The key objectives of this notebook are:
 - Modifying parameters impacts **likelihood and loss values**.  
 - The softmax function should produce **probability distributions** over class labels.
 
+## Code Link 
+
+You can view the complete code on GitHub:
+[Shallow Neural Networks I Code]([https://github.com/SnehashisRatna/DeepLearning/blob/main/LogicGateOperation.ipynb](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_1_Shallow_Networks_I.ipynb))
+
 # **Shallow Neural Networks II**  
 
 ## **Overview**  
@@ -120,6 +125,10 @@ The key objectives of this notebook are:
 - Changing activation functions affects the shape of the output.  
 - Modifying parameters impacts **likelihood and loss values**.  
 - The softmax function should produce **probability distributions** over class labels.  
+## Code Link 
+
+You can view the complete code on GitHub:
+[SNN 2 Code]([https://github.com/SnehashisRatna/DeepLearning/blob/main/LogicGateOperation.ipynb](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_2_Shallow_Networks_II.ipynb))
 
 # **Shallow Neural Networks III & IV**  
 
@@ -138,10 +147,20 @@ The key objectives of these notebooks are:
 - **Parameter Effects:** Modify parameters and analyze their impact on network regions.  
 - **Mathematical Analysis:** Understand the mathematical reasoning behind network region calculations.  
 
+## Code Link 
+
+You can view the complete code on GitHub:
+[SNN 3 Code]([https://github.com/SnehashisRatna/DeepLearning/blob/main/LogicGateOperation.ipynb](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_3_Shallow_Network_Regions.ipynb))
+
 ## **Notebook 3.4: Activation Functions**  
 - **Exploring Activation Functions:** Implement and compare different activation functions.  
 - **Effect on Model Output:** Observe how each activation function affects model predictions.  
 - **Gradient Behavior:** Analyze gradients of activation functions and their impact on training.  
+
+## Code Link 
+
+You can view the complete code on GitHub:
+[SNN 4 Code]([https://github.com/SnehashisRatna/DeepLearning/blob/main/LogicGateOperation.ipynb](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_4_Activation_Functions.ipynb))
 
 ## **Expected Outputs & Observations**  
 - The model should fit **2D data points** and make reasonable predictions.  
