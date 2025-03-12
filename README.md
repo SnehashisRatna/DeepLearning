@@ -69,7 +69,7 @@ You can view the complete code on GitHub:
    
    *7th-Feb-2025*
 
-# NoteBook - Chao-03
+# NoteBook - Chapter-03
 
 # **Shallow Neural Networks I**
 
