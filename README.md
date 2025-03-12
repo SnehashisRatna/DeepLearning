@@ -128,7 +128,7 @@ The key objectives of this notebook are:
 ## Code Link 
 
 You can view the complete code on GitHub:
-[SNN 2 Code]([https://github.com/SnehashisRatna/DeepLearning/blob/main/LogicGateOperation.ipynb](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_2_Shallow_Networks_II.ipynb))
+[SNN 2 Code](#[https://github.com/SnehashisRatna/DeepLearning/blob/main/LogicGateOperation.ipynb](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_2_Shallow_Networks_II.ipynb))
 
 # **Shallow Neural Networks III & IV**  
 
@@ -168,6 +168,52 @@ You can view the complete code on GitHub:
 - Modifying parameters impacts **likelihood and loss values**.  
 - The softmax function should produce **probability distributions** over class labels.  
 - The number of linear regions should follow a predictable pattern based on theoretical calculations.  
+
+
+# **Deep Neural Networks & Advanced Concepts**  
+
+## **Overview**  
+This repository contains notebooks that explore deeper neural network architectures, covering topics such as **composing networks**, **clipping functions**, and **deep neural networks in matrix form**. These notebooks extend shallow networks by stacking multiple layers and analyzing their transformations.
+
+### **Objectives:**  
+- Understanding how neural networks behave when composed together.  
+- Experimenting with **clipping functions** and how they modify representations.  
+- Converting **deep neural networks** to matrix form for efficient computation.  
+- Observing the effects of different activation functions and layers.  
+
+---  
+
+## **Notebook 4.1: Composing Networks**  
+- **Composing Multiple Networks:** Feeding one network’s output into another.  
+- **Network Variability:** Experiment with different network configurations.  
+- **Observing Effects:** Predict outcomes before running experiments.  
+
+## **Notebook 4.2: Clipping Functions**  
+- **Understanding Hidden Layers:** Analyze how multiple hidden layers clip and recombine representations.  
+- **Building Complex Functions:** Experiment with stacking different activation functions.  
+- **Observing Function Approximations:** Modify network parameters to shape output behavior.  
+
+## **Notebook 4.3: Deep Neural Networks**  
+- **Matrix Form Representation:** Convert deep neural networks into efficient matrix operations.  
+- **Scaling Networks:** Understand computational efficiency in deep architectures.  
+- **Training & Optimization:** Analyze gradient flow and parameter updates.  
+
+## **Expected Outputs & Observations**  
+- Composed networks should exhibit changes in function approximations.  
+- Clipping functions modify how intermediate representations are formed.  
+- Deep networks should efficiently process inputs when converted to matrix form.  
+- Different activation functions impact learning speed and convergence.  
+
+## **Code & Resources**  
+📂 **Repository Link:** [GitHub](#) *(Update with actual link)*  
+📜 **Reference Material:** UDL Book - Chapter 4  
+✉️ **Contact:** udlbookmail@gmail.com  
+
+## **Contributing**  
+If you find any issues or have suggestions, feel free to submit a **pull request** or **report an issue**.  
+
+## **License**  
+This project is open-source and available under the **MIT License**.  🚀
 
 
 
