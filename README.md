@@ -205,15 +205,11 @@ This repository contains notebooks that explore deeper neural network architectu
 - Different activation functions impact learning speed and convergence.  
 
 ## **Code & Resources**  
-📂 **Repository Link:** [GitHub](#) *(Update with actual link)*  
+📂 **Repository Link:** [[GitHub]](https://github.com/SnehashisRatna/DeepLearning/tree/main/Notebooks/Chap04)(#)
 📜 **Reference Material:** UDL Book - Chapter 4  
 ✉️ **Contact:** udlbookmail@gmail.com  
 
-## **Contributing**  
-If you find any issues or have suggestions, feel free to submit a **pull request** or **report an issue**.  
 
-## **License**  
-This project is open-source and available under the **MIT License**.  🚀
 
 
 
