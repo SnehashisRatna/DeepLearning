@@ -69,105 +69,59 @@ You can view the complete code on GitHub:
    
    *7th-Feb-2025*
 
-# NoteBook - Chapter-03
-
-# **Shallow Neural Networks I**
+# **Shallow Neural Networks**  
 
 ## **Overview**  
-This notebook is designed to help you gain familiarity with **shallow neural networks** using **1D inputs**. It follows an example similar to **Figure 3.3** and allows experimentation with different **activation functions**.  
-
-The key objectives of this notebook are:  
-- Understanding the structure of a shallow neural network.  
-- Implementing different **activation functions**.  
-- Modifying and tuning parameters to observe their effects.  
-- Computing **loss functions**, including least squares error and negative log likelihood.  
-
-## **Tasks in the Notebook**  
-- **Implementing Activation Functions:** Experiment with different activation functions like ReLU, Sigmoid, and Tanh.  
-- **Defining Network Parameters:** Initialize weights and biases for a shallow neural network.  
-- **Forward Propagation:** Compute the output using matrix multiplications and activation functions.  
-- **Probability Distribution:** Implement the **Gaussian distribution** function and analyze its behavior.  
-- **Loss Computation:** Compute and visualize **sum of squares loss, likelihood, and negative log-likelihood**.  
-- **Multiclass Classification:** Implement softmax and analyze the model’s behavior in classification tasks.  
-
-## **Expected Outputs & Observations**  
-- The model should fit 1D data points and make reasonable predictions.  
-- Changing activation functions affects the shape of the output.  
-- Modifying parameters impacts **likelihood and loss values**.  
-- The softmax function should produce **probability distributions** over class labels.
-
-## Code Link 
-
-You can view the complete code on GitHub:
-[Shallow Neural Networks I Code]([https://github.com/SnehashisRatna/DeepLearning/blob/main/LogicGateOperation.ipynb](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_1_Shallow_Networks_I.ipynb))
-
-# **Shallow Neural Networks II**  
-
-## **Overview**  
-This notebook is designed to help you gain familiarity with **shallow neural networks** using **2D inputs**. It follows an example similar to **Figure 3.8** and allows experimentation with different **activation functions**.  
-
-The key objectives of this notebook are:  
-- Understanding the structure of a shallow neural network with **2D inputs**.  
-- Implementing different **activation functions**.  
-- Modifying and tuning parameters to observe their effects.  
-- Computing **loss functions**, including least squares error and negative log likelihood.  
-
-## **Tasks in the Notebook**  
-- **Implementing Activation Functions:** Experiment with different activation functions like ReLU, Sigmoid, and Tanh.  
-- **Defining Network Parameters:** Initialize weights and biases for a shallow neural network.  
-- **Forward Propagation:** Compute the output using matrix multiplications and activation functions.  
-- **Probability Distribution:** Implement the **Gaussian distribution** function and analyze its behavior.  
-- **Loss Computation:** Compute and visualize **sum of squares loss, likelihood, and negative log-likelihood**.  
-- **Multiclass Classification:** Implement softmax and analyze the model’s behavior in classification tasks.  
-
-## **Expected Outputs & Observations**  
-- The model should fit **2D data points** and make reasonable predictions.  
-- Changing activation functions affects the shape of the output.  
-- Modifying parameters impacts **likelihood and loss values**.  
-- The softmax function should produce **probability distributions** over class labels.  
-## Code Link 
-
-You can view the complete code on GitHub:
-[SNN 2 Code](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_2_Shallow_Networks_II.ipynb)
-
-# **Shallow Neural Networks III & IV**  
-
-## **Overview**  
-This repository contains notebooks designed to help you gain familiarity with **shallow neural networks**, covering both **2D inputs** and the **maximum possible number of linear regions**. It also explores different **activation functions** and their effects on network performance.  
+This repository contains notebooks designed to help you understand and experiment with **shallow neural networks**, covering **1D and 2D inputs**, **activation functions**, and **network regions**.  
 
 The key objectives of these notebooks are:  
-- Understanding the structure of a shallow neural network with **2D inputs**.  
-- Implementing different **activation functions**.  
-- Modifying and tuning parameters to observe their effects.  
-- Computing **loss functions**, including least squares error and negative log likelihood.  
-- Analyzing the **maximum possible number of linear regions** a shallow network can form.  
+- Understanding the architecture of shallow neural networks.  
+- Experimenting with different **activation functions**.  
+- Computing **loss functions** such as least squares error and negative log-likelihood.  
+- Analyzing **network regions** and how activation functions impact them.  
+
+
+## **Notebook 3.1: Shallow Neural Networks I**  
+- **Understanding 1D Inputs:** Implement a shallow neural network with **one-dimensional input**.  
+- **Activation Functions:** Experiment with different functions like **ReLU, Sigmoid, and Tanh**.  
+- **Parameter Tuning:** Modify weights and biases to observe changes in model behavior.  
+- **Loss Computation:** Compute **sum of squares loss and log-likelihood**.  
+
+## **Notebook 3.2: Shallow Neural Networks II**  
+- **Extending to 2D Inputs:** Implement a neural network that takes **two-dimensional inputs**.  
+- **Gaussian Distribution:** Apply the Gaussian function and analyze probability distributions.  
+- **Multiclass Classification:** Implement the **softmax function** and visualize classification behavior.  
 
 ## **Notebook 3.3: Shallow Network Regions**  
-- **Computing Linear Regions:** Compute the **maximum possible number of linear regions** in a shallow network, as seen in Figure 3.9 of the book.  
-- **Parameter Effects:** Modify parameters and analyze their impact on network regions.  
-- **Mathematical Analysis:** Understand the mathematical reasoning behind network region calculations.  
-
-## Code Link 
-
-You can view the complete code on GitHub:
-[SNN 3 Code](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_3_Shallow_Network_Regions.ipynb)
+- **Computing Linear Regions:** Analyze the **maximum possible number of linear regions** a shallow network can form.  
+- **Mathematical Derivation:** Understand theoretical justifications for network regions.  
+- **Impact of Parameters:** Modify activation functions and network parameters to observe changes in decision boundaries.  
 
 ## **Notebook 3.4: Activation Functions**  
-- **Exploring Activation Functions:** Implement and compare different activation functions.  
-- **Effect on Model Output:** Observe how each activation function affects model predictions.  
-- **Gradient Behavior:** Analyze gradients of activation functions and their impact on training.  
-
-## Code Link 
-
-You can view the complete code on GitHub:
-[SNN 4 Code](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_4_Activation_Functions.ipynb)
+- **Exploring Activation Functions:** Compare different activation functions and their impact.  
+- **Gradient Analysis:** Study the effect of different activation functions on gradient computation.  
+- **Impact on Training:** Understand how activation choices affect convergence speed and loss minimization.  
 
 ## **Expected Outputs & Observations**  
-- The model should fit **2D data points** and make reasonable predictions.  
-- Changing activation functions affects the shape of the output.  
-- Modifying parameters impacts **likelihood and loss values**.  
-- The softmax function should produce **probability distributions** over class labels.  
-- The number of linear regions should follow a predictable pattern based on theoretical calculations.  
+- The model should fit **1D and 2D data points** efficiently.  
+- Different activation functions will **change the network’s behavior** and predictions.  
+- Softmax should correctly generate **probability distributions** over class labels.  
+- The number of linear regions should increase as **network complexity grows**.  
+
+## **📌 Code & Resources**  
+- [Notebook 3.1 - Shallow Neural Networks I](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_1_Shallow_Networks_I.ipynb)  
+- [Notebook 3.2 - Shallow Neural Networks II](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_2_Shallow_Networks_II.ipynb)
+- [Notebook 3.3 - Shallow Network Regions](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_3_Shallow_Network_Regions.ipynb) 
+- [Notebook 3.4 - Activation Functions](https://github.com/SnehashisRatna/DeepLearning/blob/main/NoteBook(Chap-03)/3_4_Activation_Functions.ipynb)  
+
+## **Contributing**  
+If you find any errors or have suggestions for improvements, feel free to contribute by submitting a **pull request** or reporting an **issue**.  
+
+## **License**  
+This project is open-source and available under the **MIT License**.  
+
+## **Contact**  
+For any queries, reach out to **udlbookmail@gmail.com**.    
 
 
 # **Deep Neural Networks & Advanced Concepts**  
