@@ -205,7 +205,7 @@ This repository contains notebooks that explore deeper neural network architectu
 - Different activation functions impact learning speed and convergence.  
 
 ## **Code & Resources**  
-📂 **Repository Link:** [[GitHub]](https://github.com/SnehashisRatna/DeepLearning/tree/main/Notebooks/Chap04)
+📂 **Repository Link:** [Chapter-4](https://github.com/SnehashisRatna/DeepLearning/tree/main/Notebooks/Chap04)
 📜 **Reference Material:** UDL Book - Chapter 4  
 ✉️ **Contact:** udlbookmail@gmail.com  
 
@@ -249,11 +249,11 @@ If you find any errors or have suggestions for improvements, feel free to contri
 This project is open-source and available under the **MIT License**.  
 
 ## **Code & Resources**  
-📂 **Repository Link:** [GitHub Repo]([#](https://github.com/SnehashisRatna/DeepLearning/tree/main/Notebooks/Chap05))  
+📂 **Repository Link:** [Chapter-5]((https://github.com/SnehashisRatna/DeepLearning/tree/main/Notebooks/Chap05))  
 📄 **Notebook Files:**  
 - 📘 [Notebook 5.1: Least Squares Loss](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap05/5_1_Least_Squares_Loss.ipynb)  
-- 📘 [Notebook 5.2: Binary Cross-Entropy Loss]([#](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap05/5_2_Binary_Cross_Entropy_Loss.ipynb))  
-- 📘 [Notebook 5.3: Multiclass Cross-Entropy Loss]([#](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap05/5_3_Multiclass_Cross_entropy_Loss.ipynb))  
+- 📘 [Notebook 5.2: Binary Cross-Entropy Loss]((https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap05/5_2_Binary_Cross_Entropy_Loss.ipynb))  
+- 📘 [Notebook 5.3: Multiclass Cross-Entropy Loss]((https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap05/5_3_Multiclass_Cross_entropy_Loss.ipynb))  
 
 
 
