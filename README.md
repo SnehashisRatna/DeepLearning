@@ -90,7 +90,7 @@ Ensure you’re comfortable with Python, Colab, and the foundational math requir
 **Approach**:
 This notebook contains interactive code, mathematical exercises, and "TODO" sections that prompt you to complete or modify functions and answer embedded questions. Don’t just read — **code and explore**.
 
-🔗 [View Notebook 1.1](Chap01/1_BackgroundMathematics.ipynb)
+🔗 [View Notebook 1.1](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap01/1_1_BackgroundMathematics.ipynb)
 
 ---
 # Chapter 2 – Supervised Learning
@@ -115,7 +115,7 @@ Explore and implement the **linear regression model**, which is a fundamental co
 - Work through key mathematical concepts
 - Visualize the learning process and performance
 
-🔗 [View Notebook 2.1](Chap02/2_1_Supervised_Learning.ipynb)
+🔗 [View Notebook 2.1](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap02/2_1_Supervised_Learning.ipynb)
 
 ---
 
@@ -281,7 +281,7 @@ Understand how to find the minimum of a simple 1D function using line search.
 - Visualize function behavior
 - Predict the location of minima based on curves
 
-🔗 [View Notebook 6.1](notebooks/6.1_line_search.ipynb)
+🔗 [View Notebook 6.1](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap06/6_1_Line_Search.ipynb)
 
 ---
 
@@ -300,7 +300,7 @@ Recreate the classical **gradient descent** algorithm and understand how it upda
 - Visualize descent paths on a 2D contour plot
 - Explore how different learning rates affect convergence
 
-🔗 [View Notebook 6.2](notebooks/6.2_gradient_descent.ipynb)
+🔗 [View Notebook 6.2](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap06/6_2_Gradient_Descent.ipynb)
 
 ---
 
@@ -319,7 +319,7 @@ Understand the differences between batch gradient descent and **stochastic gradi
 - Compare smooth vs. noisy trajectories
 - Analyze learning stability
 
-🔗 [View Notebook 6.3](notebooks/6.3_stochastic_gradient_descent.ipynb)
+🔗 [View Notebook 6.3](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap06/6_3_Stochastic_Gradient_Descent.ipynb)
 
 ---
 
@@ -338,7 +338,7 @@ Explore how **momentum** can help optimization escape poor local minima and acce
 - Visualize how updates differ from standard gradient descent
 - Recreate Figure 6.7 with momentum-enhanced updates
 
-🔗 [View Notebook 6.4](notebooks/6.4_momentum.ipynb)
+🔗 [View Notebook 6.4](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap06/6_4_Momentum.ipynb)
 
 ---
 
@@ -357,7 +357,7 @@ Investigate the **Adam** optimization algorithm, which combines momentum and ada
 - Compare it with SGD and momentum
 - Reproduce Figure 6.9 to see how Adam converges
 
-🔗 [View Notebook 6.5](notebooks/6.5_adam.ipynb)
+🔗 [View Notebook 6.5](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap06/6_5_Adam.ipynb)
 
 ---
 # Chapter 7 – Gradients and Initialization
@@ -382,7 +382,7 @@ Manually compute the derivatives of a simple toy model using chain rule principl
 - Calculate derivatives with respect to each parameter
 - Understand how gradients flow through layers
 
-🔗 [View Notebook 7.1](Chap07/7_1_Backpropagation_in_Toy_Model.ipynb)
+🔗 [View Notebook 7.1](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap07/7_1_Backpropagation_in_Toy_Model.ipynb)
 
 ---
 
@@ -401,7 +401,7 @@ Implement the **backpropagation algorithm** on a deep neural network, as introdu
 - Track gradients at each layer
 - Verify correctness using numerical gradient checking
 
-🔗 [View Notebook 7.2](Chap07/7_2_Backpropagation.ipynb)
+🔗 [View Notebook 7.2](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap07/7_2_Backpropagation.ipynb)
 
 ---
 
@@ -420,7 +420,7 @@ Explore how different **weight initialization schemes** impact training, based o
 - Observe their effect on signal propagation and loss curves
 - Compare performance across architectures
 
-🔗 [View Notebook 7.3](Chap07/7_3_Initialization.ipynb)
+🔗 [View Notebook 7.3](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap07/7_3_Initialization.ipynb)
 
 ---
 # Chapter 8 – Measuring Performance
@@ -444,7 +444,7 @@ Train and evaluate a simple neural network on the **MNIST-1D** dataset as shown 
 - Train a neural network model
 - Visualize predictions and classification performance
 
-🔗 [View Notebook 8.1](Chap08/8_1_MNIST_1D_Performance.ipynb)
+🔗 [View Notebook 8.1](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap08/8_1_MNIST_1D_Performance.ipynb)
 
 ---
 
@@ -463,7 +463,7 @@ Reproduce and understand the **bias-variance trade-off** as discussed in Section
 - Measure training and test error
 - Plot and analyze bias vs. variance curves
 
-🔗 [View Notebook 8.2](Chap08/8_2_Bias_Variance_Trade_Off.ipynb)
+🔗 [View Notebook 8.2](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap08/8_2_Bias_Variance_Trade_Off.ipynb)
 
 ---
 
@@ -482,7 +482,7 @@ Explore the **double descent** curve that appears when model capacity increases 
 - Train networks of increasing size
 - Plot risk curves and identify the double descent phenomenon
 
-🔗 [View Notebook 8.3](Chap08/8_3_Double_Descent.ipynb)
+🔗 [View Notebook 8.3](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap08/8_3_Double_Descent.ipynb)
 
 ---
 
@@ -501,7 +501,7 @@ Investigate unintuitive properties of high-dimensional spaces and their implicat
 - Visualize distance distributions
 - Understand why high dimensions pose challenges for ML models
 
-🔗 [View Notebook 8.4](Chap08/8_4_High_Dimensional_Spaces.ipynb)
+🔗 [View Notebook 8.4](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap08/8_4_High_Dimensional_Spaces.ipynb)
 
 ---
 # Chapter 10 – Convolutional Networks
@@ -526,7 +526,7 @@ This notebook corrects a **notation issue in the printed book**—it follows the
 - Dilation 2 = one space between filter elements  
 Refer to the [errata](https://udlbook.github.io/udlbook/errata.html) if needed.
 
-🔗 [View Notebook 10.1](Chap10/10_1_1D_Convolution.ipynb)
+🔗 [View Notebook 10.1](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap10/10_1_1D_Convolution.ipynb)
 
 ---
 
@@ -544,7 +544,7 @@ Build and train a 1D convolutional neural network on the **MNIST-1D dataset**, a
 - Implement a full CNN pipeline for 1D data
 - Evaluate model performance
 
-🔗 [View Notebook 10.2](Chap10/10_2_Convolution_for_MNIST_1D.ipynb)
+🔗 [View Notebook 10.2](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap10/10_2_Convolution_for_MNIST_1D.ipynb)
 
 ---
 
@@ -562,7 +562,7 @@ Understand the core **2D convolution operation** by implementing it manually and
 - Manually implement 2D convolution
 - Validate correctness using PyTorch
 
-🔗 [View Notebook 10.3](Chap10/10_3_2D_Convolution.ipynb)
+🔗 [View Notebook 10.3](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap10/10_3_2D_Convolution.ipynb)
 
 ---
 
@@ -580,7 +580,7 @@ Explore how **downsampling** (e.g., max pooling) and **upsampling** (e.g., inter
 - Experiment with resolution changes
 - Analyze effects on feature maps
 
-🔗 [View Notebook 10.4](Chap10/10_4_Downsampling_and_Upsampling.ipynb)
+🔗 [View Notebook 10.4](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap10/10_4_Downsampling_and_Upsampling.ipynb)
 
 ---
 
@@ -597,7 +597,7 @@ Build a full 2D CNN using the classic **MNIST** handwritten digits dataset.
 **Reference**:  
 Adapted from [this PyTorch MNIST example](https://nextjournal.com/gkoehler/pytorch-mnist).
 
-🔗 [View Notebook 10.5](Chap10/10_5_Convolution_For_MNIST.ipynb)
+🔗 [View Notebook 10.5](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap10/10_5_Convolution_For_MNIST.ipynb)
 
 ---
 
