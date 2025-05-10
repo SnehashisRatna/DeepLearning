@@ -453,10 +453,108 @@ Investigate unintuitive properties of high-dimensional spaces and their implicat
 🔗 [View Notebook 8.4](Chap08/8_4_High_Dimensional_Spaces.ipynb)
 
 ---
+# Chapter 10 – Convolutional Networks
+
+This chapter introduces convolutional neural networks (CNNs), which are foundational for working with image and spatial data. These notebooks help you understand **1D and 2D convolution**, how to implement them from scratch, and how to use them in real-world datasets like **MNIST**.
+
+---
+
+## 📘 Notebook 10.1: 1D Convolution
+
+**Objective**:  
+Understand and implement **1D convolutional layers**, focusing on how filters interact with input signals.
+
+**Key Concepts**:
+- Convolution vs. correlation
+- Filter stride, padding, and dilation
+- Receptive fields in 1D data
+
+**Important Note**:  
+This notebook corrects a **notation issue in the printed book**—it follows the standard definition of dilation where:
+- Dilation 1 = no space between filter elements  
+- Dilation 2 = one space between filter elements  
+Refer to the [errata](https://udlbook.github.io/udlbook/errata.html) if needed.
+
+🔗 [View Notebook 10.1](Chap10/10_1_1D_Convolution.ipynb)
+
+---
+
+## 📘 Notebook 10.2: Convolution for MNIST-1D
+
+**Objective**:  
+Build and train a 1D convolutional neural network on the **MNIST-1D dataset**, as seen in Figures 10.7 and 10.8a.
+
+**Key Concepts**:
+- Feature extraction with convolutions
+- Pooling and downsampling in 1D
+- Performance comparison to dense models
+
+**What You’ll Do**:
+- Implement a full CNN pipeline for 1D data
+- Evaluate model performance
+
+🔗 [View Notebook 10.2](Chap10/10_2_Convolution_for_MNIST_1D.ipynb)
+
+---
+
+## 📘 Notebook 10.3: 2D Convolution
+
+**Objective**:  
+Understand the core **2D convolution operation** by implementing it manually and comparing it with PyTorch's output.
+
+**Key Concepts**:
+- Kernel sliding and summation
+- Cross-checking manual vs. library results
+- Stride, padding, and filter size impact
+
+**What You’ll Do**:
+- Manually implement 2D convolution
+- Validate correctness using PyTorch
+
+🔗 [View Notebook 10.3](Chap10/10_3_2D_Convolution.ipynb)
+
+---
+
+## 📘 Notebook 10.4: Downsampling and Upsampling
+
+**Objective**:  
+Explore how **downsampling** (e.g., max pooling) and **upsampling** (e.g., interpolation) affect signal resolution in CNNs.
+
+**Key Concepts**:
+- Subsampling for translation invariance
+- Different upsampling strategies
+- Information loss and recovery
+
+**What You’ll Do**:
+- Experiment with resolution changes
+- Analyze effects on feature maps
+
+🔗 [View Notebook 10.4](Chap10/10_4_Downsampling_and_Upsampling.ipynb)
+
+---
+
+## 📘 Notebook 10.5: Convolution for MNIST (2D)
+
+**Objective**:  
+Build a full 2D CNN using the classic **MNIST** handwritten digits dataset.
+
+**Key Concepts**:
+- Real-world application of CNNs
+- MNIST 28x28 input handling
+- Classification into 10 digit classes
+
+**Reference**:  
+Adapted from [this PyTorch MNIST example](https://nextjournal.com/gkoehler/pytorch-mnist).
+
+🔗 [View Notebook 10.5](Chap10/10_5_Convolution_For_MNIST.ipynb)
+
+---
 
 📬 **Contact**  
 If you find any mistakes or have suggestions, feel free to reach out:  
 📧 **udlbookmail@gmail.com**
+
+
 
 
 
