@@ -209,6 +209,111 @@ This project is open-source and available under the **MIT License**.
 - 📘 [Notebook 5.2: Binary Cross-Entropy Loss](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap05/5_2_Binary_Cross_Entropy_Loss.ipynb)
 - 📘 [Notebook 5.3: Multiclass Cross-Entropy Loss](https://github.com/SnehashisRatna/DeepLearning/blob/main/Notebooks/Chap05/5_3_Multiclass_Cross_entropy_Loss.ipynb)
 
+# Chapter 6 – Optimization Algorithms
+
+This chapter explores foundational optimization algorithms used to train neural networks. Each notebook builds intuition through interactive code, mathematical analysis, and visualizations. You'll be guided with **"TODO"** markers to write and experiment with code, promoting active learning.
+
+---
+
+## 📘 Notebook 6.1: Line Search
+
+**Objective**:  
+Understand how to find the minimum of a simple 1D function using line search.
+
+**Key Concepts**:
+- Numerical optimization
+- Evaluating function values along a line
+- Visualizing function curves and minima
+
+**What You’ll Do**:
+- Implement a basic line search algorithm
+- Visualize function behavior
+- Predict the location of minima based on curves
+
+🔗 [View Notebook 6.1](notebooks/6.1_line_search.ipynb)
+
+---
+
+## 📘 Notebook 6.2: Gradient Descent
+
+**Objective**:  
+Recreate the classical **gradient descent** algorithm and understand how it updates parameters over time.
+
+**Key Concepts**:
+- Gradient computation
+- Learning rate impact
+- Loss landscape navigation
+
+**What You’ll Do**:
+- Implement gradient descent step-by-step
+- Visualize descent paths on a 2D contour plot
+- Explore how different learning rates affect convergence
+
+🔗 [View Notebook 6.2](notebooks/6.2_gradient_descent.ipynb)
+
+---
+
+## 📘 Notebook 6.3: Stochastic Gradient Descent
+
+**Objective**:  
+Understand the differences between batch gradient descent and **stochastic gradient descent (SGD)**.
+
+**Key Concepts**:
+- Stochasticity in optimization
+- Convergence vs. variance tradeoff
+- Reproducing Figure 6.5
+
+**What You’ll Do**:
+- Implement SGD using a toy dataset
+- Compare smooth vs. noisy trajectories
+- Analyze learning stability
+
+🔗 [View Notebook 6.3](notebooks/6.3_stochastic_gradient_descent.ipynb)
+
+---
+
+## 📘 Notebook 6.4: Momentum
+
+**Objective**:  
+Explore how **momentum** can help optimization escape poor local minima and accelerate convergence.
+
+**Key Concepts**:
+- Velocity-based updates
+- Overdamped vs. underdamped behavior
+- Momentum parameter tuning
+
+**What You’ll Do**:
+- Implement momentum manually
+- Visualize how updates differ from standard gradient descent
+- Recreate Figure 6.7 with momentum-enhanced updates
+
+🔗 [View Notebook 6.4](notebooks/6.4_momentum.ipynb)
+
+---
+
+## 📘 Notebook 6.5: Adam Optimizer
+
+**Objective**:  
+Investigate the **Adam** optimization algorithm, which combines momentum and adaptive learning rates.
+
+**Key Concepts**:
+- Adaptive moment estimation
+- Exponential moving averages
+- Stability across diverse scenarios
+
+**What You’ll Do**:
+- Implement the Adam algorithm from scratch
+- Compare it with SGD and momentum
+- Reproduce Figure 6.9 to see how Adam converges
+
+🔗 [View Notebook 6.5](notebooks/6.5_adam.ipynb)
+
+---
+
+📬 **Contact**  
+If you find any mistakes or have suggestions, feel free to reach out:  
+📧 **udlbookmail@gmail.com**
+
 
 
 
