@@ -72,9 +72,9 @@ You can view the complete code on GitHub:
 
 ## 📑 Assignment Submissions
 
-assignment PDF can be accessed below:
+assignment PDF can be accessed below: Latex Format
 
-- [Assignment 1](https://github.com/SnehashisRatna/DeepLearning/blob/main/DL-Assignment-SnehashisaRatna-A124013.pdf)
+- [Assignment PDF](https://github.com/SnehashisRatna/DeepLearning/blob/main/DL-Assignment-SnehashisaRatna-A124013.pdf)
   
  ## Submission Date
    
