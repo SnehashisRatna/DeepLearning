@@ -68,7 +68,18 @@ You can view the complete code on GitHub:
    ## Submission Date
    
    *7th-Feb-2025*
+---
+
+## 📑 Assignment Submissions
+
+assignment PDF can be accessed below:
+
+- [Assignment 1](https://github.com/SnehashisRatna/DeepLearning/blob/main/DL-Assignment-SnehashisaRatna-A124013.pdf)
+  
+ ## Submission Date
    
+   *10th-May-2025*
+
 # Chapter 1 – Background Mathematics
 
 This introductory chapter is designed to help you get started with Colab and refresh your understanding of the key mathematical concepts needed for deep learning. It serves as a warm-up before diving into more complex ideas in later chapters.
