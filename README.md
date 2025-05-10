@@ -215,7 +215,7 @@ This repository contains notebooks that explore deeper neural network architectu
 ✉️ **Contact:** udlbookmail@gmail.com  
 
 
-# **Deep Neural Networks & Loss Functions**
+# ** Chapter 5 -Deep Neural Networks & Loss Functions**
 
 ## **Overview**  
 This repository contains notebooks designed to explore **deep neural networks** and different **loss functions**, including **Least Squares Loss**, **Binary Cross-Entropy Loss**, and **Multiclass Cross-Entropy Loss**. These practicals follow the theoretical concepts from **Chapter 5** of the book.
