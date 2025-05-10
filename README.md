@@ -93,6 +93,32 @@ This notebook contains interactive code, mathematical exercises, and "TODO" sect
 🔗 [View Notebook 1.1](Chap01/1_BackgroundMathematics.ipynb)
 
 ---
+# Chapter 2 – Supervised Learning
+
+This chapter introduces **supervised learning**, focusing on regression models, particularly **linear regression**. The notebook provides a hands-on exploration to implement and understand linear regression.
+
+---
+
+## 📘 Notebook 2.1: Supervised Learning
+
+**Objective**:  
+Explore and implement the **linear regression model**, which is a fundamental concept in supervised learning.
+
+**Key Concepts**:
+- Linear regression
+- Loss functions and optimization
+- Model fitting using gradient descent
+- Overfitting and bias-variance trade-off
+
+**What You’ll Do**:
+- Implement linear regression from scratch
+- Work through key mathematical concepts
+- Visualize the learning process and performance
+
+🔗 [View Notebook 2.1](Chap02/2_1_Supervised_Learning.ipynb)
+
+---
+
 
 # **  Chapter 3 – Shallow Neural Networks**  
 
