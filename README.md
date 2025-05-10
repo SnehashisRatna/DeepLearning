@@ -309,6 +309,71 @@ Investigate the **Adam** optimization algorithm, which combines momentum and ada
 🔗 [View Notebook 6.5](notebooks/6.5_adam.ipynb)
 
 ---
+# Chapter 7 – Gradients and Initialization
+
+This chapter introduces the concept of computing gradients via **backpropagation** and discusses how **initialization** affects training dynamics in deep networks. The notebooks provide hands-on exercises to deepen understanding of how gradient signals flow and how smart initialization improves performance.
+
+---
+
+## 📘 Notebook 7.1: Backpropagation in Toy Model
+
+**Objective**:  
+Manually compute the derivatives of a simple toy model using chain rule principles, as discussed in Section 7.3.
+
+**Key Concepts**:
+- Function composition and derivatives
+- Chain rule in depth
+- Manual gradient tracking
+- Least squares loss gradients
+
+**What You’ll Do**:
+- Analyze a model composed of known functions
+- Calculate derivatives with respect to each parameter
+- Understand how gradients flow through layers
+
+🔗 [View Notebook 7.1](Chap07/7_1_Backpropagation_in_Toy_Model.ipynb)
+
+---
+
+## 📘 Notebook 7.2: Backpropagation
+
+**Objective**:  
+Implement the **backpropagation algorithm** on a deep neural network, as introduced in Section 7.4.
+
+**Key Concepts**:
+- Recursive gradient computation
+- Layer-by-layer backward pass
+- Intermediate variable tracking
+
+**What You’ll Do**:
+- Code the forward and backward passes of a neural net
+- Track gradients at each layer
+- Verify correctness using numerical gradient checking
+
+🔗 [View Notebook 7.2](Chap07/7_2_Backpropagation.ipynb)
+
+---
+
+## 📘 Notebook 7.3: Initialization
+
+**Objective**:  
+Explore how different **weight initialization schemes** impact training, based on insights from Section 7.5.
+
+**Key Concepts**:
+- Variance scaling
+- Vanishing and exploding gradients
+- Xavier and He initialization
+
+**What You’ll Do**:
+- Experiment with various initialization strategies
+- Observe their effect on signal propagation and loss curves
+- Compare performance across architectures
+
+🔗 [View Notebook 7.3](Chap07/7_3_Initialization.ipynb)
+
+---
+
+
 
 📬 **Contact**  
 If you find any mistakes or have suggestions, feel free to reach out:  
