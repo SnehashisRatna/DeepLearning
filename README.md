@@ -372,12 +372,94 @@ Explore how different **weight initialization schemes** impact training, based o
 🔗 [View Notebook 7.3](Chap07/7_3_Initialization.ipynb)
 
 ---
+# Chapter 8 – Measuring Performance
 
+Chapter 8 explores how we evaluate and understand the performance of neural networks. Key topics include performance on real-world datasets, the **bias-variance trade-off**, the **double descent** phenomenon, and the peculiar behavior of models in **high-dimensional spaces**.
 
+---
+
+## 📘 Notebook 8.1: MNIST_1D_Performance
+
+**Objective**:  
+Train and evaluate a simple neural network on the **MNIST-1D** dataset as shown in Figure 8.2a.
+
+**Key Concepts**:
+- Generalization
+- Performance visualization
+- Dataset preparation using `mnist1d`
+
+**What You’ll Do**:
+- Generate MNIST-1D data from [mnist1d repo](https://github.com/greydanus/mnist1d)
+- Train a neural network model
+- Visualize predictions and classification performance
+
+🔗 [View Notebook 8.1](Chap08/8_1_MNIST_1D_Performance.ipynb)
+
+---
+
+## 📘 Notebook 8.2: Bias-Variance Trade-Off
+
+**Objective**:  
+Reproduce and understand the **bias-variance trade-off** as discussed in Section 8.3 and Figure 8.9.
+
+**Key Concepts**:
+- Underfitting vs. overfitting
+- Model complexity
+- Expected error decomposition
+
+**What You’ll Do**:
+- Fit models of varying complexity
+- Measure training and test error
+- Plot and analyze bias vs. variance curves
+
+🔗 [View Notebook 8.2](Chap08/8_2_Bias_Variance_Trade_Off.ipynb)
+
+---
+
+## 📘 Notebook 8.3: Double Descent
+
+**Objective**:  
+Explore the **double descent** curve that appears when model capacity increases beyond the interpolation threshold.
+
+**Key Concepts**:
+- Classical vs. modern generalization
+- Interpolation threshold
+- Deep double descent behavior
+
+**What You’ll Do**:
+- Use `mnist1d` dataset
+- Train networks of increasing size
+- Plot risk curves and identify the double descent phenomenon
+
+🔗 [View Notebook 8.3](Chap08/8_3_Double_Descent.ipynb)
+
+---
+
+## 📘 Notebook 8.4: High-Dimensional Spaces
+
+**Objective**:  
+Investigate unintuitive properties of high-dimensional spaces and their implications on machine learning models.
+
+**Key Concepts**:
+- Volume concentration
+- Nearest neighbor distances
+- Curse of dimensionality
+
+**What You’ll Do**:
+- Run simulations in high-dimensional space
+- Visualize distance distributions
+- Understand why high dimensions pose challenges for ML models
+
+🔗 [View Notebook 8.4](Chap08/8_4_High_Dimensional_Spaces.ipynb)
+
+---
 
 📬 **Contact**  
 If you find any mistakes or have suggestions, feel free to reach out:  
 📧 **udlbookmail@gmail.com**
+
+
+
 
 
 
