@@ -68,8 +68,33 @@ You can view the complete code on GitHub:
    ## Submission Date
    
    *7th-Feb-2025*
+   
+# Chapter 1 – Background Mathematics
 
-# **Shallow Neural Networks**  
+This introductory chapter is designed to help you get started with Colab and refresh your understanding of the key mathematical concepts needed for deep learning. It serves as a warm-up before diving into more complex ideas in later chapters.
+
+---
+
+## 📘 Notebook 1.1: Background Mathematics
+
+**Objective**:  
+Ensure you’re comfortable with Python, Colab, and the foundational math required for the rest of the course.
+
+**Key Concepts**:
+- Scalars, vectors, and matrices
+- Basic operations (addition, multiplication, transposition)
+- Derivatives and simple calculus
+- Visualization using `matplotlib`
+- Python and NumPy basics
+
+**Approach**:
+This notebook contains interactive code, mathematical exercises, and "TODO" sections that prompt you to complete or modify functions and answer embedded questions. Don’t just read — **code and explore**.
+
+🔗 [View Notebook 1.1](Chap01/1_BackgroundMathematics.ipynb)
+
+---
+
+# **  Chapter 3 – Shallow Neural Networks**  
 
 ## **Overview**  
 This repository contains notebooks designed to help you understand and experiment with **shallow neural networks**, covering **1D and 2D inputs**, **activation functions**, and **network regions**.  
@@ -124,7 +149,7 @@ This project is open-source and available under the **MIT License**.
 For any queries, reach out to **udlbookmail@gmail.com**.    
 
 
-# **Deep Neural Networks & Advanced Concepts**  
+# **  Chapter 4 – Deep Neural Networks & Advanced Concepts**  
 
 ## **Overview**  
 This repository contains notebooks that explore deeper neural network architectures, covering topics such as **composing networks**, **clipping functions**, and **deep neural networks in matrix form**. These notebooks extend shallow networks by stacking multiple layers and analyzing their transformations.
